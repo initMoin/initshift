@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   and also someone who knows mobile devices inside and out. Whether your issue is 
   software or hardware, I'm the guy that can fix it. Let's talk!
 domain: "initshift.io" # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-baseurl: "initmoin.github.io" # the subpath of your site, e.g. /blog
+baseurl: "initshift.github.io" # the subpath of your site, e.g. /blog
 url: "https://initshift.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  initmoin
 
