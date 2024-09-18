@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: init shift LLC  //  Your one-stop shop for all your mobile device needs!
+title: init shift
 email: hello@initshift.io
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to init shift LLC, where we bring all your dream apps and ideas
